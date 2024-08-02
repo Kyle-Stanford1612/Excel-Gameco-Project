@@ -19,9 +19,7 @@ GameCo is a new video game company with markets across the globe. They want to u
 
 ## Data and Tools Used:
 
-Historical sales of video games that have sold over 10,000 copies between 1980 and 2020 - from [VGChartz](https://www.vgchartz.com/)
-
-Access the original data with this [link](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+[Historical sales of video games that have sold over 10,000 copies between 1980 and 2020](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx) - from [VGChartz](https://www.vgchartz.com/)
 
 **Excel** was used to perform data cleaning, analysis, and create visualisations. **PowerPoint** was used to format and highlight insights from these visualisations.
 
