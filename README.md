@@ -3,7 +3,7 @@ This repository contains Excel files documenting an analysis for a student proje
 
 ## Project Context:
 
-![image](https://github.com/Kyle-Stanford1612/Excel-Gameco-Project/blob/main/Example%20Presentation%20Viz%20-%20GameCo.png?raw=true)
+![image](https://github.com/Kyle-Stanford1612/Excel-Gameco-Project/blob/main/GameCo%20Project%20Cover%201.png?raw=true)
 
 GameCo is a new video game company with markets across the globe. They want to understand market trends to inform the development and marketing of new games.
 
